@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Manoj Mohan Bhat"
   avatar           : "profile.png"
-  bio              : "Graduate Research Student at Carnegie Mellon University. A curious Roboticist and Automator for Human technological growth. Currently focused on Perception and Nuroscience for robots."
+  bio              : "Graduate Research Student at Carnegie Mellon University. A curious Roboticist and Automator. Currently focused on Perception and Nuroscience for robots."
   location         : "Pittsburgh PA"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@aimaster"
   vine             :
   weibo            :
   xing             :
