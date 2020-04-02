@@ -21,7 +21,7 @@ Supported arguments:
 ## Education
 
 ### **Carnegie Mellon University** `2018 - 2020`
-> Pittsburgh, PA
+> Pittsburgh, PA, USA
 
 - Master of Science - Research 
 - Advised by [Dr. Ding Zhao](https://www.meche.engineering.cmu.edu/directory/bios/zhao-ding.html)
@@ -39,27 +39,27 @@ Supported arguments:
 
 ## Experience
 
-### **Carnegie Mellon University, Safe AI Lab** `Sept 2018 - Present`
+### **Carnegie Mellon University, Safe AI Lab** &nbsp;&nbsp;&nbsp; `Sept 2018 - Present`
 
 _Research Assistant_<br>
  - Developing camera-LiDAR calibration in Kia-Soul vehicle, simulation in CARLA for testing traffic scenario primitives, 3D Object detection domain adaptation and Unsupervised learning Non-parametric Bayesian algorithms for rare event analysis under Dr. Ding Zhao.     
  - Extending dual HESAI-40p LIDAR sensor firmware, performing signal processing, calibration & Sensor Fusion to collect synchronized PCL-RGB rosbag data in Pittsburgh in Polysync-Drivekit enabled KIA Soul along with calibrated Swift GNSS loc. 
  - Performed Feature Engineering to analyze and design the inputs based on Importance sampling to the Object detection network for performance.
 
-### **Robert Bosch Research and Technology Center Pitt** `May ~ Aug 19`
+### **Robert Bosch Research and Technology Center Pitt** &nbsp;&nbsp;&nbsp; `May ~ Aug 19`
 
 _Computer Vision Research Intern_<br>
-  - Researching State-of-the-art 3D Deep-Learning detection methods with TensorRT(CUDA) and implemented classical 3D geometric methods for detection and tracking (State Estimation) with raw sensor data. Implemented PointRCNN and PointCNN on KItti-Argo dataset. Designed REST api Annotation tool. Added Kalman filter for state estimation in automatic annotation of Point-cloud 3D boxes. Supported Release to Production in developing online versions of tool. CVPR 19 Paper: http://bit.ly/2TCdODU
-  - Developed business-goal oriented Constrained Decision tree to prune predictions by thresholding confidence at 97% Acc.
+  - Researching State-of-the-art 3D Deep-Learning detection methods with TensorRT(CUDA) and implemented classical 3D geometric methods for detection and tracking (State Estimation) with raw sensor data. Implemented PointRCNN and PointCNN on KItti-Argo dataset. Designed REST api Annotation tool. Added Kalman filter for state estimation in automatic annotation of Point-cloud 3D boxes. Supported Release to Production in developing online versions of tool. [CVPR 19 Paper](http://bit.ly/2TCdODU)
+  - Developed business-goal oriented Constrained Decision tree to prune predictions by thresholding confidence at 97% Accuracy.
   - Evaluated Novel SafeAI lab developed PointCNN-XCRF (Tensorflow) for Region proposal and denoising in Segmentation.
 
-### **Amazon Transportation & Supply chain Analytics** `Feb ~ Aug 18`
+### **Amazon Transportation & Supply chain Analytics** &nbsp;&nbsp;&nbsp; `Feb ~ Aug 18`
 
 _Business Intelligence Engineer_<br>
 - Developed recommender system algorithms and metrics to classify pincodes. Packages Used - SQL, redshift, Python-Tensor Flow packages.
 - Explored SGD regression, SVM to evaluate Orders, Business Delivery-capability & Value decision made in contingencies. 
 
-### **Ashva Electric Motorsports** `Nov 17 ~ Dec 18`
+### **Ashva Electric Motorsports** &nbsp;&nbsp;&nbsp; `Nov 17 ~ Dec 18`
 
 _Business Intelligence Engineer_<br>
 - Headed a team on research topic Self-Balancing of One-wheeled vehicles and dynamics.    
@@ -68,14 +68,14 @@ _Business Intelligence Engineer_<br>
 ## Projects
 
 <!-- ### **Neural Architecture Search for Sensor Fusion and SLAM** `Sept 2018 - Present` -->
-### **LiDAR Curb Detection and Multi-Object Tracking** (CyLab CMU - Mobileye) `Oct 19 ~ Present`
+### **LiDAR Curb Detection and Multi-Object Tracking** (CyLab CMU - Mobileye) &nbsp;&nbsp;&nbsp; `Oct 19 ~ Present`
  - Worked on State estimation problem (Extended Kalman filter) for tracking the curb line and the object location in 3D space using geometric methods.
  - Improving the Curb detection using single LiDAR data using VScan (NVIDIA Xavier). Tracker development & deployment (OpenCV – TF – CUDA C++) .
  - Extending to Multiple LiDAR & Ultrasonic sensor fusion general road boundary detection like Curb, Wall-like boundary. Deliverables include analysis and
 comparison of methodologies for real-time tracking, evaluation with required metrics & Documentation.
 
-### **Multi-Modal LIDAR-augmented Multi-Agent Trajectory Forecasting** (CyLab CMU - Mobileye) `Jan 20 ~ Present`
- - Improved multi-agent trajectory forecasting under dynamic scene contexts, by incorporating rich multimodal information involved in autonomous driving-namely, visual, map, and CARLA-simulated LiDAR data. Proposed attention based scene context module, tested baselines Vanilla MATF, PRECOG which utilizes Normalizing flow. Participated in utilizing Best Practices in Software Development. Project in Python. ECCV Paper: http://bit.ly/3aHqRtC.
+### **Multi-Modal LIDAR-augmented Multi-Agent Trajectory Forecasting** (CyLab CMU - Mobileye) &nbsp;&nbsp;&nbsp; `Jan 20 ~ Present`
+ - Improved multi-agent trajectory forecasting under dynamic scene contexts, by incorporating rich multimodal information involved in autonomous driving-namely, visual, map, and CARLA-simulated LiDAR data. Proposed attention based scene context module, tested baselines Vanilla MATF, PRECOG which utilizes Normalizing flow. Participated in utilizing Best Practices in Software Development. Project in Python.  [ECCV Paper](http://bit.ly/3aHqRtC).
 
 ### **Projects in Carnegie Mellon University courses**
 
