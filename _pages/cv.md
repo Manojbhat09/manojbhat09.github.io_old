@@ -34,7 +34,7 @@ Supported arguments:
 
 
 - B.Tech. in Mechanical, Major in Mechatronics
-- Industriall Vision & Perception, Computer Graphics
+- Industrial Vision & Perception, Computer Graphics
 
 ----
 
