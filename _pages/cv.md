@@ -91,11 +91,12 @@ comparison of methodologies for real-time tracking, evaluation with required met
 
 ### **Projects in Carnegie Mellon University courses**
 
+- Proposed and implemented new approach: Point-cloud Convolutional-tower based One-Stage Object detection, a semi-supervised method to generate precise bounding box from LiDAR point-clouds in a single stage. A solution based on centerness for 3D bounding box detection for LiDAR Pointclouds as inputs. Achieved mAP of 96%(_>State of the art!_) and mIOU of 0.8 on Car-class range. Trained on Argoverse dataset. (Submitted to ICCV)
 - Developed Big-Data Spark app as project for building machine Pipeline using Pyspark with multiple nodes for deployment of a Decision Tree & SVM on Scale.
 - Ranked in the top 5% of 206 participating teams in Kaggle face classification and verification assignment. Achieved an accuracy of 78% by using an ensemble of ResNeXt and MobileNet architecture. Implemented Mask R-CNN to calculate depth of vehicle positions. Work in Vision class: 3D reconstruction of colosseum using Bundle adjustment along with deep learning topics.
 - Segmentation with MaskRCNN and depth estimation based on Sensor fused LiDAR point-cloud to estimate background and foreground object distance and pose in mapped space. Motion capture and estimation of vehicles in given point-cloud scene using KLT, Unscented Kalman Filter, DeepSORT on BEV.
 - Performed verification and analysis of three Visual Inertial Odometry algorithms including VINS-Mono, Okvis, and MSCKF in conditions that match those of the Moon-Ranger rover (Project CubeRover of CMU) on Nvidia TX2 as SLAM course project.
-- Proposed and implemented new approach: Point-cloud Convolutional-tower based One-Stage Object detection, a semi-supervised method to generate precise bounding box from LiDAR point-clouds in a single stage. A solution based on centerness for 3D bounding box detection for LiDAR Pointclouds as inputs. Achieved mAP of 96%(>SOTA) and mIOU of 0.8 on Car-class range. Trained on Argoverse dataset. (Submitted to ICCV)
+
 
 ## Skills
 
