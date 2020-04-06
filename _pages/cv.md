@@ -75,7 +75,7 @@ _Business Intelligence Engineer_<br>
 ### **RoboDutchman (Mechatronic Robot Design)** 
  - Developing a Shipbot robot for Mechatronic Design course. The goal is to fulfill missions in autonomously operating valves of different kind on a ship. The whole software system is developed in ROS.
  - Worked primarily on Vision in Jetson Nano, on Custom dataset. Worked in a team on Hardware component placement design and Software Integration & Inverse Kinematics for Arm design.
- - Worked on SLAM on ROS using, 2D lidar, MSCKF with loop closure. Successfully completed Vision localizer, 98% accuracy with Few shot method. Find more at [FlyingDutchman Present: Mr. Robodutchman](https://sites.google.com/view/flyingdutchman/home)
+ - Worked on SLAM on ROS using, 2D lidar, MSCKF with loop closure. Successfully completed Vision localizer, 98% accuracy with Few shot method. Find more at [FlyingDutchman Presents: Mr. Robodutchman](https://sites.google.com/view/flyingdutchman/home)
 
 <!-- ### **Neural Architecture Search for Sensor Fusion and SLAM** `Sept 2018 - Present` -->
 ### **LiDAR Curb Detection and Multi-Object Tracking** (CyLab CMU - Mobileye) 
