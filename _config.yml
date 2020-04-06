@@ -82,7 +82,9 @@ analytics:
 author:
   name             : "Manoj Mohan Bhat"
   avatar           : "profile.png"
-  bio              : "Graduate Research Student at Carnegie Mellon University. A curious Roboticist and Automator. Currently focused on Perception and Nuroscience for robots."
+  bio              : "Graduate Research Student at Carnegie Mellon University. A curious Roboticist and Automator. Currently focused on Perception and Nuroscience for robots.   <!-- Badge Code - Do Not Change The Code -->
+            <a class="hitCounter" href="https://visitorshitcounter.com/" target="_blank" title="Hit counter" data-name="7e31594ceddc8b0317147f983999c83b|5|ip|1|#31c95c|#ffffff|small|s-hit">Hit Counter</a><script>document.write("<script type='text/javascript' src='https://visitorshitcounter.com/js/hitCounter.js?v="+Date.now()+"'><\/script>");</script>
+            <!-- Badge Code End Here -->"
   location         : "Pittsburgh PA"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
