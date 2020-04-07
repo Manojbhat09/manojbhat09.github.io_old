@@ -64,11 +64,13 @@ _Business Intelligence Engineer_<br>
 - Explored SGD regression, SVM to evaluate Orders, Business Delivery-capability & Value decision made in contingencies. 
 
 ### **Ashva Electric Motorsports**
-`Nov 17 ~ Dec 18`
+`Aug 17 ~ Dec 18`
 
-_Business Intelligence Engineer_<br>
+_Research Engineer_<br>
 - Headed a team on research topic Self-Balancing of One-wheeled vehicles and dynamics.    
 - Worked on Reinforcement (Machine Learning) algorithm (TD and recently H-Experience replay method) for α-optimal control. Explored inverse reinforcement Model-free method for self-balancing to reach a goal position given current state and multiple pathway.    	
+- Worked on Developing a complete control system, a hybrid of model-based and PID control for set-point augmentation to prevent gyroscopic locking. Simulation of the same with Kinematic mechanical modeling was done in matlab (with and without contact forces were compared).
+- A pure python script was used to interface with raspberry pi in later development stages for control mechanism including RPM, voltage, Torque and current variable interfaced with hall encoders; and IMU based sensor detection for calibration orientation configuration.
 
 ## Projects
 
