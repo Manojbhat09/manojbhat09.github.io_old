@@ -10,7 +10,7 @@ redirect_from:
 
 I am a graduate research student in at Carnegie Mellon University. I work with Dr. Ding Zhao and Dr. Raj Rajkumar on research areas at the intersection of Robotics, Machine Learning and Computer Vision.
 
-I has always looked into solving real world problems using my skills in Programming, M.L, IoT and ROS to obtain fruitful robotics solutions.
+I has always looked into solving real world problems using my skills in Programming, M.L, D.L, IoT and ROS to obtain fruitful solutions.
 
 During my undergraduate degree in MIT Manipal, I was part of building India's first 4 seater solar electric vehicle for a period of 2 years in MIT Manipal. 
 I also worked as a Research Engineer in a startup Ashva Electronic Motorsports where I worked on Self-balacing hardware with matlab modeling analytics. And reinforcement Learning software for control.
