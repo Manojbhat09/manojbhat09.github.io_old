@@ -44,7 +44,8 @@ Supported arguments:
 `Sept 2018 - Present`
 
 _Research Assistant_<br>
- - Developing camera-LiDAR calibration in Kia-Soul vehicle, simulation in CARLA for testing traffic scenario primitives, 3D Object detection domain adaptation and Unsupervised learning Non-parametric Bayesian algorithms for rare event analysis under Dr. Ding Zhao.     
+ - Developing camera-LiDAR calibration in Kia-Soul vehicle, simulation in CARLA for testing traffic scenario primitives, 3D Object detection domain adaptation and Unsupervised learning Non-parametric Bayesian algorithms for rare event analysis under Dr. Ding Zhao.
+ - Working on 2D & 3D Object detection domain adaptation methods in sensor fused data. 
  - Extending dual HESAI-40p LIDAR sensor firmware, performing signal processing, calibration & Sensor Fusion to collect synchronized PCL-RGB rosbag data in Pittsburgh in Polysync-Drivekit enabled KIA Soul along with calibrated Swift GNSS loc. 
  - Performed Feature Engineering to analyze and design the inputs based on Importance sampling to the Object detection network for performance.
  
@@ -53,7 +54,7 @@ _Research Assistant_<br>
  `May ~ Aug 19`
 
 _Computer Vision Research Intern_<br>
-  - Researching State-of-the-art 3D Deep-Learning detection methods with TensorRT(CUDA) and implemented classical 3D geometric methods for detection and tracking (State Estimation) with raw sensor data. Implemented PointRCNN and PointCNN on KItti-Argo dataset. Designed REST api Annotation tool. Added Kalman filter for state estimation in automatic annotation of Point-cloud 3D boxes. Supported Release to Production in developing online versions of tool. [CVPR 19 Paper](http://bit.ly/2TCdODU)
+  - Researching State-of-the-art DeepLearning 3D detection methods and implemented DBScan, KD-Tree and Kalman Filter tracking (State Estimation for automated annotation) with raw sensor data from scratch. Implemented PointRCNN and PointCNN on KItti-Argo dataset. Developed REST api Annotation too software. Supported Release to Production in developing online versions of tool. Participated software development methodologies such as agile, lean. Supported Release to Production in developing online versions of tool. [CVPR 19 Paper](http://bit.ly/2TCdODU)
   - Developed business-goal oriented Constrained Decision tree to prune predictions by thresholding confidence at 97% Accuracy.
   - Evaluated Novel SafeAI lab developed PointCNN-XCRF (Tensorflow) for Region proposal and denoising in Segmentation.
 
@@ -62,6 +63,7 @@ _Computer Vision Research Intern_<br>
 
 _Business Intelligence Engineer_<br>
 - Developed recommender system algorithms and metrics to classify pincodes. Packages Used - SQL, redshift, Python-Tensor Flow packages.
+- Applied HDP-Hidden Markov model algorithm to get distributions across time series for state forecasting, to predict the package volume over pincode. Used Bayesian inference and optimization techniques for fitting distribution on volume and ARIMA for long-haul mile categorized data forecasting.
 - Explored SGD regression, SVM to evaluate Orders, Business Delivery-capability & Value decision made in contingencies. 
 
 ### **Ashva Electric Motorsports**
@@ -69,23 +71,23 @@ _Business Intelligence Engineer_<br>
 
 _Research Engineer_<br>
 - Headed a team on research topic Self-Balancing of One-wheeled vehicles and dynamics.    
-- Worked on Reinforcement (Machine Learning) algorithm (TD and recently H-Experience replay method) for α-optimal control. Explored inverse reinforcement Model-free method for self-balancing to reach a goal position given current state and multiple pathway.    	
+- Worked on Computer Vision and Reinforcement algorithm (DeepRL, TD and recently H-Experience replay method) for α-optimal control. Explored inverse reinforcement method for self-balancing to reach a goal position given current state and multiple pathway.    	
 - Worked on Developing a complete control system, a hybrid of model-based and PID control for set-point augmentation to prevent gyroscopic locking. Simulation of the same with Kinematic mechanical modeling was done in matlab (with and without contact forces were compared).
 - A pure python script was used to interface with raspberry pi in later development stages for control mechanism including RPM, voltage, Torque and current variable interfaced with hall encoders; and IMU based sensor detection for calibration orientation configuration.
 
 ## Projects
 
 ### **RoboDutchman (Mechatronic Robot Design)** 
- - Developing a Shipbot robot for Mechatronic Design course. The goal is to fulfill missions in autonomously operating valves of different kind on a ship. The whole software system is developed in ROS.
- - Worked primarily on Vision in Jetson Nano, on Custom dataset. Worked in a team on Hardware component placement design and Software Integration & Inverse Kinematics for Arm design.
- - Working on SLAM on ROS using, 2D lidar, MSCKF with loop closure. Successfully completed Vision localizer, 98% accuracy with Few shot method. Find more at [FlyingDutchman Presents: Mr. Robodutchman](https://sites.google.com/view/flyingdutchman/home)
+ - Developing a Shipbot robot for Mechatronic Design course. Responsibility of Vision using Jetson Nano, on Real-time data. Used OpenCV, ONNX & CUDA.
+ - The goal is to fulfill missions in autonomously operating valves and breakers on a ship. The whole software system is developed in ROS C++. (15 fps Vision)
+ - Completed & evaluated Vision, 98% accuracy with Few shot Yolov3. Worked on Gmapping + AMCL on ROS using 2D lidar, applied MSCKF with loop closure. Find more at [FlyingDutchman Presents: Mr. Robodutchman](https://sites.google.com/view/flyingdutchman/home)
 
 <!-- ### **Neural Architecture Search for Sensor Fusion and SLAM** `Sept 2018 - Present` -->
 ### **LiDAR Curb Detection and Multi-Object Tracking** (CyLab CMU - Mobileye) 
 `Oct 19 ~ Present`
- - Worked on State estimation problem (Extended Kalman filter) for tracking the curb line and the object location in 3D space using geometric methods.
- - Improving the Curb detection using single LiDAR data using VScan (NVIDIA Xavier). Tracker development & deployment (OpenCV – TF – CUDA C++) .
- - Extending to Multiple LiDAR & Ultrasonic sensor fusion general road boundary detection like Curb, Wall-like boundary. Deliverables include analysis and
+ - Worked on State estimation problem (E Kalman filter) for tracking the curb and the object location in 3D using geometric methods. http://y2u.be/Gd506RklfG8
+ - Improving the (Real-Time) Curb detection using single LiDAR data using VScan (NVIDIA Xavier). Tracker deployment (OpenCV–TensorFlow–CUDA  C++) .
+ - Used Boost Shared Memory & multiprocessing, extended to Multiple LiDAR & Ultrasonic fusion for Road boundary detection like Curb, Wall-like, Blockings etc. Deliverables include analysis and
 comparison of methodologies for real-time tracking, evaluation with required metrics & Documentation.
 
 ### **Multi-Modal LIDAR-augmented Multi-Agent Trajectory Forecasting** (CyLab CMU - Mobileye)
