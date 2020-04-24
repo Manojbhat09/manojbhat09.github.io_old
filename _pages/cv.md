@@ -54,7 +54,7 @@ _Research Assistant_<br>
  `May ~ Aug 19`
 
 _Computer Vision Research Intern_<br>
-  - Researching State-of-the-art DeepLearning 3D detection methods and implemented DBScan, KD-Tree and Kalman Filter tracking (State Estimation for automated annotation) with raw sensor data from scratch. Implemented PointRCNN and PointCNN on KItti-Argo dataset. Developed REST api Annotation too software. Supported Release to Production in developing online versions of tool. Participated software development methodologies such as agile, lean. Supported Release to Production in developing online versions of tool. [CVPR 19 Paper](http://bit.ly/2TCdODU)
+  - Researching State-of-the-art DeepLearning 3D detection methods and implemented DBScan, KD-Tree and Kalman Filter tracking (State Estimation for automated annotation) with raw sensor data from scratch. Implemented PointRCNN and PointCNN on Kitti-Argo dataset. Developed REST api AI-assisted Annotation tool software for Active-Learning in-loop application. Supported Release to Production in developing online versions of tool. Participated software development methodologies such as agile, lean. Supported Release to Production in developing online versions of tool. [CVPR 19 Paper](http://bit.ly/2TCdODU)
   - Developed business-goal oriented Constrained Decision tree to prune predictions by thresholding confidence at 97% Accuracy.
   - Evaluated Novel SafeAI lab developed PointCNN-XCRF (Tensorflow) for Region proposal and denoising in Segmentation.
 
