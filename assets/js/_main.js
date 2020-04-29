@@ -37,9 +37,10 @@ $(document).ready(function(){
       Stickyfill.rebuild();
       Stickyfill.init();
        $(".sticky").append("
-            <!-- Badge Code - Do Not Change The Code -->
-            <a class="hitCounter" href="https://visitorshitcounter.com/" target="_blank" title="Hit counter" data-name="7e31594ceddc8b0317147f983999c83b|5|ip|1|#31c95c|#ffffff|small|s-hit">Hit Counter</a><script>document.write("<script type='text/javascript' src='https://visitorshitcounter.com/js/hitCounter.js?v="+Date.now()+"'><\/script>");</script>
-            <!-- Badge Code End Here -->
+//             <!-- Badge Code - Do Not Change The Code -->
+//             <a class="hitCounter" href="https://visitorshitcounter.com/" target="_blank" title="Hit counter" data-name="7e31594ceddc8b0317147f983999c83b|5|ip|1|#31c95c|#ffffff|small|s-hit">Hit Counter</a><script>document.write("<script type='text/javascript' src='https://visitorshitcounter.com/js/hitCounter.js?v="+Date.now()+"'><\/script>");</script>
+//             <!-- Badge Code End Here -->
+               <!-- Badge Code - Do Not Change The Code --><div class="col-xs-12 mt20" id="bg"><div style="margin:0px auto;width:133px;background:rgb(0, 170, 16);text-align:left;display:flex;border-radius:5px"><span style="padding:7px;display:inline-block;border-right:1px solid #746dba"><a href="http://visitorshitcounter.com" rel="nofollow noopener"  target="_blank" title="https://visitorshitcounter.com/"><img src="https://visitorshitcounter.com/img/s-logo.svg" alt="https://visitorshitcounter.com/" style="width:100%;border:none;float:left"></a></span><span class="text" id="dupli_hit_counter"   style="padding:10px 0 0 0;display:inline-block;color:#ffffff;width:100%;text-align:center;"></span></span><input type="hidden" id="site_val"   value="https://visitorshitcounter.com/counterDisplay?code=7e31594ceddc8b0317147f983999c83b&style=0017&pad=5&type=ip&initCount=1"></div></div><script src="https://visitorshitcounter.com/js/badgess.js?v=1588160522"></script><!-- Badge Code End Here -->
        ");
       $(".author__urls").show();
     } else {
