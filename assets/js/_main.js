@@ -25,11 +25,6 @@ $(document).ready(function(){
 
   // init sticky sidebar
   $(".sticky").Stickyfill();
- $(".sticky").append("
-            <!-- Badge Code - Do Not Change The Code -->
-            <a class="hitCounter" href="https://visitorshitcounter.com/" target="_blank" title="Hit counter" data-name="7e31594ceddc8b0317147f983999c83b|5|ip|1|#31c95c|#ffffff|small|s-hit">Hit Counter</a><script>document.write("<script type='text/javascript' src='https://visitorshitcounter.com/js/hitCounter.js?v="+Date.now()+"'><\/script>");</script>
-            <!-- Badge Code End Here -->
-       ");
 
   var stickySideBar = function(){
     var show = $(".author__urls-wrapper button").length === 0 ? $(window).width() > 1024 : !$(".author__urls-wrapper button").is(":visible");
@@ -41,6 +36,11 @@ $(document).ready(function(){
       // fix
       Stickyfill.rebuild();
       Stickyfill.init();
+       $(".sticky").append("
+            <!-- Badge Code - Do Not Change The Code -->
+            <a class="hitCounter" href="https://visitorshitcounter.com/" target="_blank" title="Hit counter" data-name="7e31594ceddc8b0317147f983999c83b|5|ip|1|#31c95c|#ffffff|small|s-hit">Hit Counter</a><script>document.write("<script type='text/javascript' src='https://visitorshitcounter.com/js/hitCounter.js?v="+Date.now()+"'><\/script>");</script>
+            <!-- Badge Code End Here -->
+       ");
       $(".author__urls").show();
     } else {
       // unfix
