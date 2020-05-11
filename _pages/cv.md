@@ -26,7 +26,7 @@ Supported arguments:
 - Master of Science - Research 
 - Advised by [Dr. Ding Zhao](https://www.meche.engineering.cmu.edu/directory/bios/zhao-ding.html)
 - Working on Robust Vision for Autonomous Vehicles
-- Check out the report about our annotation tool. [SANE-AI ASSISTED ANNOTATION(https://drive.google.com/file/d/1rzLUZ3sp1HI288VIexuAbJvf-5NWyggg/view?usp=sharing)
+- Check out the report about our annotation tool. [SANE- AI ASSISTED ANNOTATION](https://drive.google.com/file/d/1rzLUZ3sp1HI288VIexuAbJvf-5NWyggg/view?usp=sharing)
 
 ### **Manipal University** 
 `2014 - 2018`
