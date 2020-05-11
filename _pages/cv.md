@@ -26,6 +26,7 @@ Supported arguments:
 - Master of Science - Research 
 - Advised by [Dr. Ding Zhao](https://www.meche.engineering.cmu.edu/directory/bios/zhao-ding.html)
 - Working on Robust Vision for Autonomous Vehicles
+- Check out the report about our annotation tool. [SANE-AI ASSISTED ANNOTATION(https://drive.google.com/file/d/1rzLUZ3sp1HI288VIexuAbJvf-5NWyggg/view?usp=sharing)
 
 ### **Manipal University** 
 `2014 - 2018`
@@ -81,7 +82,9 @@ _Research Engineer_<br>
  - Developing a Shipbot robot for Mechatronic Design course. Responsibility of Vision using Jetson Nano, on Real-time data. Used OpenCV, ONNX & CUDA.
  - The goal is to fulfill missions in autonomously operating valves and breakers on a ship. The whole software system is developed in ROS C++. (15 fps Vision)
  - Completed & evaluated Vision, 98% accuracy with Few shot Yolov3. Worked on Gmapping + AMCL on ROS using 2D lidar, applied MSCKF with loop closure. Find more at [FlyingDutchman Presents: Mr. Robodutchman](https://sites.google.com/view/flyingdutchman/home)
-
+ - _NEWS_: We Finally won the competetion and were awarded $7000 !!
+ - Checkout our report [ROBO_DUTCHMAN_REPORT](https://drive.google.com/file/d/1muFKMI58GwGmDhiZfTMRWvHOjQrqwaAq/view?usp=sharing)
+ 
 <!-- ### **Neural Architecture Search for Sensor Fusion and SLAM** `Sept 2018 - Present` -->
 ### **LiDAR Curb Detection and Multi-Object Tracking** (CyLab CMU - Mobileye) 
 `Oct 19 ~ Present`
