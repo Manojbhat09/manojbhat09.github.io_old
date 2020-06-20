@@ -93,7 +93,7 @@ _Research Engineer_<br>
  - Used Boost Shared Memory & multiprocessing, extended to Multiple LiDAR & Ultrasonic fusion for Road boundary detection like Curb, Wall-like, Blockings etc. Deliverables include analysis and
 comparison of methodologies for real-time tracking, evaluation with required metrics & Documentation.
 
-### **Multi-Modal LIDAR-augmented Multi-Agent Trajectory Forecasting** (CyLab CMU - Mobileye)
+### **Multi-Modal LIDAR-augmented Multi-Agent Trajectory Forecasting**
  `Jan 20 ~ Present`
  - Improved multi-agent trajectory forecasting under dynamic scene contexts, by incorporating rich multimodal information involved in autonomous driving-namely, visual, map, and CARLA-simulated LiDAR data. Proposed attention based scene context module, tested baselines Vanilla MATF, PRECOG which utilizes Normalizing flow. Participated in utilizing Best Practices in Software Development. Project in Python.  [ECCV Paper](http://bit.ly/3aHqRtC).
 
