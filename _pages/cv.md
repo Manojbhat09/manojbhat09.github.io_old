@@ -35,7 +35,7 @@ Supported arguments:
 
 
 - B.Tech. in Mechanical, Major in Mechatronics
-- Industrial Vision & Perception, Computer Graphics
+- Computer Graphics, Web development, Data Analytics, Industrial vision, soft robotics
 
 ----
 
@@ -117,7 +117,7 @@ comparison of methodologies for real-time tracking, evaluation with required met
 
 ## Courses (Ask me about them!)
  - ML and AI for Engineers, Linear Algebra, Algorithms -F18
- - Computer Vision, Bayesian-statistics, Computer Systems(A) -S18
- - Robot Localization & Mapping (SLAM) , Introduction to Deep learning, Multimodal Machine Learning -F19
- - Visual Recognition and Learning, Reinforcement Learning
+ - Computer Vision, Bayesian-statistics, Bayesian-Machine-Learning, Computer Systems(A) -S18
+ - Robot Localization & Mapping (SLAM) , Introduction to Deep learning (Intermediate), Multimodal Machine Learning -F19
+ - Visual Recognition and Learning
 
