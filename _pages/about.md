@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate research student in at Carnegie Mellon University. I work with Dr. Ding Zhao and Dr. Raj Rajkumar on research areas at the intersection of Robotics, Machine Learning and Computer Vision.
+I am a graduate research student in at Carnegie Mellon University. I work with Dr. Ding Zhao and Dr. Raj Rajkumar on research areas at the intersection of Machine Learning and Computer Vision.
 
 I have always looked into solving real world problems using my skills in Coding, Data Science, Machine Learning, Deep Learning, IoT and/or ROS to obtain fruitful solutions.
 
