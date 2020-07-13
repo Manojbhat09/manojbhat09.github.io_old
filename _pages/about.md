@@ -16,6 +16,10 @@ I worked in Amazon Tranporation Analytics as a Business Intelligence engineer on
 
 I am a self-motivated and passionate engineering pillar looking to contribute to technological growth and development.
 
+Feel free to shoot me a mail to reach out!
+
+Cheers!!
+
 
 <!--
 
