@@ -5,6 +5,24 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+## Latent-Polar Transformer for LiDAR Point-Cloud 3D Object Detection
+
+_NEWS_: Our paper was accepted at a leading computer vision conference!
+
+LiDAR point-clouds are pivotal in autonomous driving for accurate 3D object detection. However, conventional methods often struggle with the sparsity and irregularity of LiDAR data. In this work, we introduce the Latent-Polar Transformer, a novel architecture designed to effectively process LiDAR point-clouds for 3D object detection. Our approach utilizes a unique latent space representation and polar-coordinate based attention mechanism. This combination significantly improves the detection accuracy, especially in challenging urban driving scenarios. We demonstrate the effectiveness of our method on standard benchmarks, showing notable improvements over existing techniques. The Latent-Polar Transformer is not only more accurate but also computationally efficient, making it highly suitable for real-time applications in autonomous vehicles.
+
+[Read more](https://www.porikli.com/mysite/pdfs/porikli%202021%20-%20Fast%20polar%20attentive%203D%20object%20detection%20on%20LiDAR%20point%20clouds.pdf)
+
+
+## Trajformer: Trajectory Prediction with Local Self-Attentive Contexts for Autonomous Driving
+
+_NEWS_: Excited to share our latest work at a prestigious AI conference!
+
+Trajectory prediction in autonomous driving is crucial for safe navigation and interaction with other road users. Current models often struggle with accurately predicting future movements in complex, dynamic environments. Our paper introduces Trajformer, an innovative model that leverages local self-attentive contexts to predict vehicle trajectories. By focusing on local interactions and temporal dynamics, Trajformer provides more accurate and context-aware trajectory forecasts. This method significantly enhances the ability of autonomous vehicles to anticipate and react to the movements of other road users, improving safety and efficiency. We present extensive evaluations of our model on various datasets, demonstrating its superior performance compared to existing approaches in diverse driving scenarios.
+
+[Read more](https://arxiv.org/pdf/2011.14910)
+
 ![](itsc1.PNG | width=100)
 ## CurbScan: Curb Detection and Tracking Using Multi-Sensor Fusion
 

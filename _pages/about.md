@@ -8,7 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate research student in at Carnegie Mellon University. I work with Dr. Ding Zhao and Dr. Raj Rajkumar on research areas at the intersection of Machine Learning and Computer Vision.
+
+I am Manoj Bhat, an accomplished Machine Learning Engineer with rich experience in autonomous vehicles, robotics, and computer vision. 
+
+My journey includes impactful roles at Rivian, Amazon Robotics, and Robert Bosch GmbH, where I've honed skills in deep learning, IoT, and ROS. Currently, I'm enhancing autonomous vehicle safety and efficiency at Qualcomm Drive. 
+
+A Carnegie Mellon alumnus, I collaborated with Dr. Ding Zhao and Dr. Raj Rajkumar on pioneering research. Passionate about applying technology for real-world problems, I'm always keen to explore collaborative opportunities in tech innovation. 
+
+Reach out to discuss potential synergies! 
+
+Cheers!
+
+
+<!-- I am a graduate research student in at Carnegie Mellon University. I work with Dr. Ding Zhao and Dr. Raj Rajkumar on research areas at the intersection of Machine Learning and Computer Vision.
 
 I have always looked into solving real world problems using my skills in Coding, Data Science, Machine Learning, Deep Learning, IoT and/or ROS to obtain fruitful solutions.
 
@@ -18,7 +30,7 @@ I am a self-motivated and passionate engineering pillar looking to contribute to
 
 Feel free to shoot me a mail to reach out!
 
-Cheers!!
+Cheers!! -->
 
 
 <!--
